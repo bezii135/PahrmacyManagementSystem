@@ -1,0 +1,11 @@
+C:\Users\SAMSUNG\Desktop\Start\bin\Debug\Start.exe.config
+C:\Users\SAMSUNG\Desktop\Start\bin\Debug\Start.exe
+C:\Users\SAMSUNG\Desktop\Start\bin\Debug\Start.pdb
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.Form1.resources
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.exe
+C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.pdb
