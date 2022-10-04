@@ -9,3 +9,14 @@ C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.csproj.GenerateResource.cache
 C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
 C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.exe
 C:\Users\SAMSUNG\Desktop\Start\obj\Debug\Start.pdb
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\bin\Debug\Start.exe.config
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\bin\Debug\Start.exe
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\bin\Debug\Start.pdb
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.csproj.AssemblyReference.cache
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.Form1.resources
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.Properties.Resources.resources
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.csproj.GenerateResource.cache
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.exe
+C:\Users\Bezawit\Documents\GitHub\PahrmacyManagementSystem\obj\Debug\Start.pdb
